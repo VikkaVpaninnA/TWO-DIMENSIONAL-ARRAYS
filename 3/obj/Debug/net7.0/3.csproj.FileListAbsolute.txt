@@ -1,0 +1,14 @@
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\bin\Debug\net7.0\3.exe
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\bin\Debug\net7.0\3.deps.json
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\bin\Debug\net7.0\3.runtimeconfig.json
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\bin\Debug\net7.0\3.dll
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\bin\Debug\net7.0\3.pdb
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.AssemblyInfoInputs.cache
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.AssemblyInfo.cs
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.csproj.CoreCompileInputs.cache
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.dll
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\refint\3.dll
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.pdb
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\3.genruntimeconfig.cache
+C:\Users\vikka\OneDrive\Рабочий стол\Работа в Git\HW двумерные массивы\3\obj\Debug\net7.0\ref\3.dll
